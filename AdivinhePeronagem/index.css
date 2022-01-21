@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+/*font-family: 'Dongle', sans-serif;*/
+
+.btn-mic
+{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    /*background:white;*/
+    background:black;
+    color:white;
+    border:none;
+    transition:.3s ease-in-out;
+}
+
+
+        ::-webkit-scrollbar
+        {
+            height:5px;
+            width:5px;
+        }
+
+        ::-webkit-scrollbar-thumb
+        {
+            background:rgb(0, 0, 102);
+            border-radius:5px;
+        }
+        .classe
+
+        *
+        {
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family: 'Dongle', sans-serif;
+            font-size:1.2em;
+        }
+
+        .pagina
+        {
+            background:radial-gradient(#6d4141,#2e0000);
+            min-height:100vh;
+            width:100%;
+            background-image:radial-gradient(rgba(6, 11, 34,.9),rgb(4, 2, 24,1)),url('./img/fundo.png');
+        }
+
+        .titulo
+        {
+            font-weight:900;
+            font-size:2em;
+            text-align:center;
+        }
+
+        .imagem
+        {
+            margin:auto;
+            height:auto;
+            width:min( 90vw , 400px );
+            background:white;
+            box-shadow: 4px 4px 8px #00000088;
+            /*border:solid 10px white;*/
+            background:rgb(189, 189, 189);
+            max-height:min( 800px , 50vh );
+            overflow-y:hidden;
+            overflow-x:hidden;
+        }
+
+        .imag
+        {
+            height:auto;
+            width:min( 90vw , 400px );
+        }
+
+        .btn-mic
+        {
+            height:60px;
+            width:60px;
+            border-radius:50%;
+            /*background:white;*/
+            background:black;
+            color:white;
+            border:none;
+            transition:.3s ease-in-out;
+        }
+
+        .btn-mic:hover
+        {
+            background:black;
+            color:white;
+        }
+
+        .falar
+        {
+            margin-top:10px;
+            margin-left:20px;
+        }
+
+        .botSpinner
+        {
+            height:60px;
+            width:60px;
+            border-radius:50%;
+        }
+
+        .botSpinner:hover
+        {
+           background:black !important;
+           color:white;
+           cursor:pointer;
+        }
+
+        .spinIcon
+        {
+            position:relative;
+            top:-48px;
+            left:18px;
+            color:white;
+        }
+
+        .suaResposta
+        {
+            width: min( 90vw , 400px );
+            margin:auto;
+            box-shadow: 4px 4px 8px #00000088;
+            height:80px;
+            text-align:center;
+            line-height:80px;
+            font-weight:650;
+            overflow-y:scroll;
+        }
+
+        .icone
+        {
+            width:20vw;
+            max-width:60px;
+            margin-bottom:20px;
+        }
+
+        .status
+        {
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+        }
+
+        .divImagem
+        {
+            width:100%;
+            height:400px;
+            display:flex;
+            flex-direction:column;
+        }
+
+
+        .btnResult
+        {
+            transition:.3s ease-in-out;
+            border:0;
+        }
