@@ -1,4 +1,6 @@
 :joystick: <h1>Adivinhe o Personagem</h1>
-um simples jogo de adivinhação com reconhecimento de voz desenvilvido em javascript
+um simples jogo de adivinhação desenvilvido em javascript utilizando API do navegador para reconhecimento de voz
 
-<img src='./Screenshot.png' />
+<img src='./Screenshot.jpg' />
+
+<img src='./Screenshot2.jpg' />
